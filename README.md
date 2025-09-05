@@ -1,3 +1,5 @@
+[Version 1.0]
+
 The reason for this project was for me to showcase my AWS foundational knowledge. I leveraged route 53 to reserve a domain name, and used S3 to host a static website.
 
 Steps:
@@ -6,4 +8,7 @@ Steps:
   3. Upload website files
   4. Configure bucket policy
   5. Enable website hosting
-  6. Route traffic with Route 53 from S3 to desired domain name 
+  6. Route traffic with Route 53 from S3 to desired domain name
+
+[Version 1.1]
+Goals: I want to clean up the website and make it look more presentable. I want to add images for my certifications.
