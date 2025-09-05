@@ -1,1 +1,1 @@
-This repository was created to showcase my foundational cloud knowledge of AWS and Azure. I plan to focus more on AWS, because I like the features better.
+The reason for this project was for me to showcase my AWS foundational knowledge. I leveraged route 53 to reserve a domain name, and used S3 to host a static website.
